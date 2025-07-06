@@ -18,17 +18,22 @@ MySQL 8.0 syntax for procedures/functions
 ✅ Tested by inserting data and retrieving data using the function for inline calculations.
 
 🗂 Files in This Repo
-stored_procedures_task.sql – Contains:
+
+stored_procedures_task.sql – 
+Contains:
+
 
 Table creation (Employees)
 
+
 Stored procedure (AddEmployee)
+
 
 Function (CalculateAnnualSalary)
 
+
 Sample procedure calls and function usage
 
-screenshot_test_output.png – Verification screenshot (optional if you add).
 
 README.md – Explanation of task, steps, and learnings.
 
